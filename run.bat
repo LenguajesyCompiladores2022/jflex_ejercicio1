@@ -1,0 +1,1 @@
+java "-jar" "target\simple-1.0.jar" "src\resources\input\test.txt"
